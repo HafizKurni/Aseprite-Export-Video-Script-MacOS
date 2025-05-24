@@ -50,4 +50,4 @@ How to Install [FFmpeg on Windows](https://phoenixnap.com/kb/ffmpeg-windows)
 4. Restart Aseprite
 
 ### Demo Using Script
-![Export Video Demo](demoScript.gif)
+![Export Video Demo](https://youtu.be/8DgQN9MsYoA)
