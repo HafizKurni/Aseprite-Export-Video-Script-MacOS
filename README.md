@@ -23,6 +23,9 @@ This is a maintained and improved fork of [zmn-hamid's original project](https:/
 
 ---
 
+![Demo Script](image/ssGambar.png)
+
+
 ## 🔁 Looping
 
 To loop your exported animation:
@@ -50,4 +53,4 @@ How to Install [FFmpeg on Windows](https://phoenixnap.com/kb/ffmpeg-windows)
 4. Restart Aseprite
 
 ### Demo Using Script
-![Export Video Demo](https://youtu.be/8DgQN9MsYoA)
+[Export Video Demo](https://youtu.be/8DgQN9MsYoA)
