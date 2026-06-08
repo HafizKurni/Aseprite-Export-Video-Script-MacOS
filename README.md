@@ -35,7 +35,7 @@ This is a maintained and improved fork of [zmn-hamid's original project](https:/
 
 ---
 
-![Demo Script](image/ssGambar.png)
+![Demo Script](image/ssGambar2.png)
 
 ## 🔁 Looping
 
