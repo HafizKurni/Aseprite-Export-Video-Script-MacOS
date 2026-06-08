@@ -105,4 +105,4 @@ You can confirm FFmpeg is ready by running `ffmpeg -version` in a terminal. The 
 
 ## 🎬 Demo
 
-[Export Video Demo](https://youtu.be/8DgQN9MsYoA)
+[Export Video Demo](https://youtu.be/eD6ROWK9jRs)
